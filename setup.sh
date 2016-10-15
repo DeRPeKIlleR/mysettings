@@ -2,7 +2,7 @@
 cp ./.vimrc ~/
 echo "-------------------------------------------------------"
 echo "1. VIM settings copied"
-#apt-get update
+apt-get update
 echo "-------------------------------------------------------"
 echo "2. apt-get update DONE"
 cp ./proxychains.conf /etc/
